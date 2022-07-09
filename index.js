@@ -22,7 +22,7 @@ let roundObject = [];
 
 var web3 = new Web3(
     new Web3.providers.WebsocketProvider(
-      "wss://speedy-nodes-nyc.moralis.io/6b82ee16c1b85ab2ddd0dee1/bsc/mainnet/ws",
+      "wss://speedy-nodes-nyc.moralis.io/YOUR-MORALIS-API/bsc/mainnet/ws",
       options
     )
   );
